@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Julien Diet👋
 
 ![Header Image](https://your-image-url.com/header.jpg)
 
 ## 🚀 About Me
 
-I am a versatile professional with expertise in **Cybersecurity** and **Web Development**. I specialize in AWS, Linux, and Bash for my security work, and I have a strong background in web development using Python, TypeScript, JavaScript, React, Svelte, and Ruby.
+I am a student specializing in **Cybersecurity** and also a **Web Developer**.
 
 ## 🛠️ Skills
 
@@ -12,32 +12,20 @@ I am a versatile professional with expertise in **Cybersecurity** and **Web Deve
 - **AWS**
 - **Linux**
 - **Bash**
+- **Wireshark**
+- **VMware**
 
 ### Web Development
 - **Languages**: Python, TypeScript, JavaScript, Ruby
-- **Frameworks**: React, Svelte
+- **Frameworks**: React, Svelte, Ruby on Rails
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliendiet&show_icons=true&locale=en&layout=compact" alt="juliendiet" /></p>
 
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
 - [Email](mailto:youremail@example.com)
 
-## 📂 Projects
-
-### Cybersecurity Projects
-- [Project 1](https://github.com/yourusername/project1) - Brief description.
-- [Project 2](https://github.com/yourusername/project2) - Brief description.
-
-### Web Development Projects
-- [Project 1](https://github.com/yourusername/project1) - Brief description.
-- [Project 2](https://github.com/yourusername/project2) - Brief description.
-
----
-
-![Footer Image](https://your-image-url.com/footer.jpg)
 
