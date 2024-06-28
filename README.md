@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a student specializing in **Cybersecurity** and also a **Web Developer**.
+I'm a student specializing in **Cybersecurity** and also a **Web Developer**.
 
 
 ## 🛠️ Skills
