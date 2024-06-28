@@ -1,13 +1,9 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Julien Diet 👋
 
 ## 🚀 About Me
 
 I am a student specializing in **Cybersecurity** and also a **Web Developer**.
 
-## 📫 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/julien-diet)
-- [Email](mailto:juliendiet7@gmail.com)
 
 ## 🛠️ Skills
 
@@ -20,3 +16,8 @@ I am a student specializing in **Cybersecurity** and also a **Web Developer**.
 
 #### Frameworks
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Icon" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte Icon" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails Icon" width="50" height="50"/> 
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/julien-diet)
+- [Email](mailto:juliendiet7@gmail.com)
