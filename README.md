@@ -1,10 +1,8 @@
-# Hi there, I'm [Your Name] 👋
-
-![Header Image](https://your-image-url.com/header.jpg)
+# Hi, I'm [Your Name] 👋
 
 ## 🚀 About Me
 
-I am a student specializing in **Cybersecurity** and also a **Web Developer**. I work with AWS, Linux, and Bash in my security projects, and I have a strong background in web development using Python, TypeScript, JavaScript, React, Svelte, and Ruby.
+I am a student specializing in **Cybersecurity** and also a **Web Developer**.
 
 ## 🛠️ Skills
 
@@ -12,8 +10,7 @@ I am a student specializing in **Cybersecurity** and also a **Web Developer**. I
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Icon" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Icon" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Icon" width="50" height="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Wireshark_Logo.png" alt="Wireshark Icon" width="50" height="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/VMware_logo.svg" alt="VMware Icon" width="50" height="50"/> 
+
 
 ### Web Development
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="50" height="50"/> 
@@ -26,7 +23,7 @@ I am a student specializing in **Cybersecurity** and also a **Web Developer**. I
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
 
 ## 📫 Contact Me
 
